@@ -2,7 +2,7 @@
 
 {
     'name': 'Delete Dialog Box',
-    'category': 'Extra Tool',
+    'category': 'Extra Tools',
     'summary': 'Get a Confirmation dialog box upon deletion of a record',
     'version': '1.0',
     'description': """A Confirmation Pop Up dialog box will show upon deletion of a record/row of item""",
