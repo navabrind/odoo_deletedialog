@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data>
+        <template id="assets_backend_extra" name="Extra Feature" inherit_id="web.assets_backend">
+            <xpath expr=".">
+                <script type="application/javascript" src="/navabrind_extra/static/src/js/extra.js"/>
+            </xpath>
+        </template>
+
+    </data>
+</odoo>
