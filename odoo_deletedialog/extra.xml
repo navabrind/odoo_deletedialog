@@ -4,7 +4,7 @@
     <data>
         <template id="assets_backend_extra" name="Extra Feature" inherit_id="web.assets_backend">
             <xpath expr=".">
-                <script type="application/javascript" src="/navabrind_extra/static/src/js/extra.js"/>
+                <script type="application/javascript" src="/odoo13_deletedialog/static/src/js/extra.js"/>
             </xpath>
         </template>
 
