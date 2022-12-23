@@ -5,9 +5,11 @@
     'category': 'Extra Tools',
     'summary': 'Get a Confirmation dialog box upon deletion of a record',
     'version': '1.0',
+    'price': 5.0,
+    'currency': 'EUR',
     'description': """A Confirmation Pop Up dialog box will show upon deletion of a record/row of item""",
-    'author': 'Navabrind IT Solutions',
-    'website': 'https://www.navabrinditsolutions.com',
+    'author': 'Navabrind IT Solutions Pvt Ltd',
+    'website': 'https://www.navabrindsol.com',
 	'images':['images/banner_confirmation.png'],
     'depends': ['base','web'],
     'data': [
